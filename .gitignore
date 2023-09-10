@@ -19,3 +19,8 @@ env/
 # Ignore .csv 
 .csv
 .json
+
+#ignore settings.py
+settings.py
+middlewares.py
+pipelines.py
