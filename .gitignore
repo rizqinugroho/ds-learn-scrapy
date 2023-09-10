@@ -1,0 +1,26 @@
+# Ignore Python byte code files
+*.pyc
+
+# Ignore __pycache__ directories
+__pycache__/
+
+# Ignore virtual environment directories (if used)
+venv/
+env/
+*.env/
+
+# Ignore Scrapy auto-generated files
+.scrapy/
+.scrapycfg
+
+# Ignore .DS_Store files (macOS specific)
+.DS_Store
+
+# Ignore .csv 
+.csv
+.json
+
+#ignore settings.py
+settings.py
+middlewares.py
+pipelines.py
